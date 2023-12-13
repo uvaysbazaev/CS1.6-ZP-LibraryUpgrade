@@ -13,6 +13,9 @@ Additional Componets that I use:
 - [ReAPI 5.22.0.254](https://github.com/s1lentq/reapi/releases/download/5.22.0.254/reapi-bin-5.22.0.254.zip)
 - [Metamod-R 1.21p38](https://github.com/theAsmodai/metamod-r/releases/download/1.3.0.138/metamod-bin-1.3.0.138.zip)
 
+Other additions not in pack:
+- Client-side enhancements for CS 1.6 and Condition Zero [csldr](https://github.com/mikkokko/csldr). Read instructions on their repo.
+
 # Installation Steps for Pack:
 1. Download the All-In-One-Pack.zip file from the releases section.
 2. Extract the 'cstrike' folder from the downloaded zip file and place it in your game directory.
