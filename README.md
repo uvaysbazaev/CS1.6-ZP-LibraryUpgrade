@@ -5,8 +5,8 @@ To resolve this issue, update the AMXX version to 1.10. Once the AMXX version is
 
 Compactible versions:
 - [AMXX 1.10]
-    [Base Pack]([URL](https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5217-base-windows.zip))
-    [Counter-Strike Addon](https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5217-cstrike-windows.zip)
+      [Base Pack]((https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5217-base-windows.zip))
+      [Counter-Strike Addon](https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5217-cstrike-windows.zip)
 - Zombie Plague 5.0.8
 - ReGameDLL 5.22.0.593
 
