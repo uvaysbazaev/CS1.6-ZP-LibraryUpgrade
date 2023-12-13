@@ -8,6 +8,6 @@ Compactible versions:
 - Zombie Plague 5.0.8
 - ReGameDLL 5.22.0.593
 
-Additional Componets I use: 
+Additional Componets that I use: 
 - ReAPI 5.22.0.254
 - Metamod-R 1.21p38
