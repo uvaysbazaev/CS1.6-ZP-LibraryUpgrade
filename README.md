@@ -1,8 +1,7 @@
 # Counter-Strike 1.6 ReGameDLL combined with Zombie Plague Mod
 
-Zombie Plague 5.0.8 using AMXX 1.8.2 will crash the game when ReGameDLL is installed
-
-You need to change the version of AMXX. I changed the version to 1.10 and it worked, game stopped to crash when starting a map.
+Using Zombie Plague 5.0.8 with AMXX 1.8.2 and ReGameDLL installed will lead to game crashes when loading maps.
+To resolve this issue, update the AMXX version to 1.10. Once the AMXX version is updated, the game should no longer crash when loading maps.
 
 Compactible versions:
 - AMXX 1.10
