@@ -7,7 +7,7 @@ Compactible versions:
 - [AMXX 1.10 Base Pack](https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5217-base-windows.zip)
 - [AMXX 1.10 Counter-Strike Addon](https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5217-cstrike-windows.zip)
 - [Zombie Plague 5.0.8](https://forums.alliedmods.net/showthread.php?t=72505?t=72505)
-- [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS) [(5.22.0.593)](https://github.com/s1lentq/ReGameDLL_CS/releases/download/5.22.0.593/regamedll-bin-5.22.0.593.zip)
+- [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS), [(5.22.0.593)](https://github.com/s1lentq/ReGameDLL_CS/releases/download/5.22.0.593/regamedll-bin-5.22.0.593.zip)
 
 Additional Componets that I use: 
 - [ReAPI 5.22.0.254](https://github.com/s1lentq/reapi/releases/download/5.22.0.254/reapi-bin-5.22.0.254.zip)
