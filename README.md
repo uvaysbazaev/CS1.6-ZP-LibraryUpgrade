@@ -19,5 +19,5 @@ Other additions not in pack:
 # Installation Steps for Pack:
 1. Download the All-In-One-Pack.zip file from the releases section.
 2. Extract the 'cstrike' folder from the downloaded zip file and place it in your game directory.
-3. Make sure that your 'liblist.gam' file includes the entry "gamedll "addons\metamod\dlls\metamod.dll"".
+3. Make sure that your 'liblist.gam' file in cstrike folder includes the entry "gamedll "addons\metamod\dlls\metamod.dll"".
     
