@@ -6,7 +6,7 @@ To resolve this issue, update the AMXX version to 1.10. Once the AMXX version is
 Compactible versions:
 - [AMXX 1.10 Base Pack](https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5217-base-windows.zip)
 - [AMXX 1.10 Counter-Strike Addon](https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5217-cstrike-windows.zip)
-- [Zombie Plague](https://forums.alliedmods.net/showthread.php?t=72505?t=72505)
+- [Zombie Plague 40 & 50](https://forums.alliedmods.net/showthread.php?t=72505?t=72505)
 - [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS) -> [(5.22.0.593)](https://github.com/s1lentq/ReGameDLL_CS/releases/download/5.22.0.593/regamedll-bin-5.22.0.593.zip)
 
 Additional Componets that I use: 
