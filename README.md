@@ -19,5 +19,7 @@ Other additions not in pack:
 # Installation Steps for Pack:
 1. Download the All-In-One-Pack.zip file from the releases section.
 2. Extract the 'cstrike' folder from the downloaded zip file and place it in your game directory.
-3. Make sure that your 'liblist.gam' file in cstrike folder includes the entry "gamedll "addons\metamod\dlls\metamod.dll"".
+3. Open cstrike folder (from game directory, not from the downloaded zip) and make sure that your 'liblist.gam' file in includes the entry: gamedll "addons\metamod\dlls\metamod.dll"
+    More precise instruction: Open file "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike\liblist.gam" and gaddamedll "addons\metamod\dlls\metamod.dll"
+5. Enjoy game!
     
