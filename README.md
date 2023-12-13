@@ -1,4 +1,4 @@
-# Counter-Strike 1.6 ReGameDLL combined Zombie Plague Mod
+# Counter-Strike 1.6 ReGameDLL combined with Zombie Plague Mod
 
 Zombie Plague 5.0.8 using AMXX 1.8.2 will crash the game when ReGameDLL is installed
 
